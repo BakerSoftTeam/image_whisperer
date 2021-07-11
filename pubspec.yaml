@@ -8,3 +8,8 @@ environment:
 
 dependencies:
   exifdart: ^0.8.0-dev.2
+
+flutter:
+  plugin:
+    platforms:
+      web:
